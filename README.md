@@ -22,7 +22,7 @@ En este proyecto, podrás encontrar guitarras de diferentes tipos, desde guitarr
 
 Puedes ver una demo de la tienda en línea haciendo clic en el siguiente enlace:
 
-[Visitar el Ecommerce de Guitarras](ecommerce-guitar-psi.vercel.app)
+[Visitar el Ecommerce de Guitarras](https://ecommerce-guitar-psi.vercel.app)
 
 ## 🧑‍💻 Cómo Ejecutar el Proyecto
 
